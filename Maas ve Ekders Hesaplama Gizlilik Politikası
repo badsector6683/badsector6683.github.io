@@ -1,0 +1,60 @@
+Gizlilik Politikası
+
+Yürürlük tarihi: 01.07.2026
+
+Bu gizlilik politikası, bu uygulamanın kullanıcı verilerini nasıl topladığını, kullandığını, sakladığını ve paylaştığını açıklar.
+
+1. Toplanan Veriler
+
+Uygulama, kullanıcıların hesap oluşturması ve hesaplama kayıtlarını saklaması için aşağıdaki verileri toplayabilir:
+
+- E-posta adresi
+- Google hesabı ile giriş sırasında sağlanan hesap bilgileri
+- Kullanıcı kimliği (Firebase UID)
+- Kullanıcının uygulama içinde kaydettiği maaş ve ek ders hesaplama kayıtları
+- Uygulama kullanımına ilişkin teknik ve tanılama verileri
+- Cihaz bilgileri ve uygulama performans verileri
+- Reklam gösterimi ve reklam kimliği ile ilişkili veriler
+- Bildirim almak için kullanılan cihaz bildirim belirteçleri, eğer bildirim özelliği etkinse
+
+2. Verilerin Kullanım Amacı
+
+Toplanan veriler şu amaçlarla kullanılır:
+
+- Kullanıcı hesabı oluşturmak ve oturum açmayı sağlamak
+- Kaydedilen hesaplama verilerini kullanıcı hesabına bağlı olarak saklamak
+- Kullanıcının kayıtlarını cihazlar arasında erişilebilir hale getirmek
+- Uygulama performansını izlemek ve hataları gidermek
+- Bildirim göndermek, eğer kullanıcı bu özelliği kullanıyorsa
+- Reklamların gösterilmesini sağlamak ve ölçmek
+
+3. Verilerin Paylaşımı
+
+Veriler yalnızca aşağıdaki hizmet sağlayıcılarla işlenebilir:
+
+- Google Firebase
+- Google Sign-In
+- Google Mobile Ads
+
+Bu hizmetler, uygulamanın çalışması için kullanılan altyapıyı sağlar. Veriler, uygulama işlevselliği dışında üçüncü taraflarla satılmaz.
+
+4. Misafir Kullanıcılar
+
+Misafir kullanıcıların kayıtları Firebase’e kaydedilmez. Kayıtlar yalnızca e-posta ile üye olan veya Google ile giriş yapan kullanıcılara aittir.
+
+5. Veri Saklama
+
+Kullanıcı kendi hesabını sildiğinde, Firebase’de saklanan kayıtları da silinir. Kullanıcı hesap silme isteğinde bulunduğunda, hesap verileri kaldırılır.
+
+6. Veri Güvenliği
+
+Veriler iletim sırasında şifreli olarak aktarılır. Firebase ve Google servisleri bu verilerin güvenli şekilde işlenmesini sağlar.
+
+7. Kullanıcı Hakları
+
+Kullanıcılar hesaplarını silebilir ve kişisel verilerinin silinmesini talep edebilir.
+
+8. İletişim
+
+Gizlilik politikası ile ilgili sorular için:
+e mail:servetsahiner66@gmail.com

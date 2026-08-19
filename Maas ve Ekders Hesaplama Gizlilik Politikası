@@ -1,60 +1,143 @@
-Gizlilik Politikası
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Maaş ve Ek Ders Hesaplama 2026 - Gizlilik Politikası</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f4f7fb;
+      --panel: #ffffff;
+      --text: #1d2733;
+      --muted: #5f6b7a;
+      --accent: #0b6efd;
+      --border: #d9e2ec;
+    }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(180deg, #eef4ff 0%, var(--bg) 40%, #ffffff 100%);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 40px 18px 72px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 10px 30px rgba(18, 38, 63, 0.08);
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 2rem;
+      line-height: 1.2;
+    }
+    .meta {
+      color: var(--muted);
+      margin-bottom: 24px;
+      font-size: 0.95rem;
+    }
+    h2 {
+      margin-top: 26px;
+      margin-bottom: 10px;
+      font-size: 1.15rem;
+      color: var(--accent);
+    }
+    ul {
+      padding-left: 20px;
+      margin: 10px 0 0;
+    }
+    li + li {
+      margin-top: 6px;
+    }
+    .contact {
+      margin-top: 28px;
+      padding-top: 18px;
+      border-top: 1px solid var(--border);
+    }
+    a {
+      color: var(--accent);
+      word-break: break-word;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <article class="card">
+      <h1>Maaş ve Ek Ders Hesaplama 2026 Gizlilik Politikası</h1>
+      <div class="meta">Son güncelleme: 19.08.2026</div>
 
-Yürürlük tarihi: 01.07.2026
+      <p><strong>Uygulama:</strong> Maaş ve Ek Ders Hesaplama 2026<br>
+        <strong>Android paket kimliği:</strong> com.ekderss.ekdersapp<br>
+        <strong>Geliştirici ve veri sorumlusu:</strong> Servet ŞAHİNER<br>
+        <strong>İletişim:</strong> <a href="mailto:servetsahiner66@gmail.com">servetsahiner66@gmail.com</a>
+      </p>
 
-Bu gizlilik politikası, bu uygulamanın kullanıcı verilerini nasıl topladığını, kullandığını, sakladığını ve paylaştığını açıklar.
+      <p>Bu gizlilik politikası, Google Play'de Servet ŞAHİNER tarafından yayımlanan
+        <strong>Maaş ve Ek Ders Hesaplama 2026</strong> uygulamasının kullanıcı verilerini nasıl
+        topladığını, kullandığını, sakladığını ve paylaştığını açıklar. Bu metinde “uygulama”
+        ifadesi Maaş ve Ek Ders Hesaplama 2026 uygulamasını, “geliştirici” ifadesi ise
+        Servet ŞAHİNER'i belirtir.</p>
 
-1. Toplanan Veriler
+      <h2>1. Toplanan Veriler</h2>
+      <p>Uygulama, kullanıcıların hesap oluşturması ve hesaplama kayıtlarını saklaması için aşağıdaki verileri toplayabilir:</p>
+      <ul>
+        <li>E-posta adresi</li>
+        <li>Google hesabı ile giriş sırasında sağlanan hesap bilgileri</li>
+        <li>Kullanıcı kimliği (Firebase UID)</li>
+        <li>Kullanıcının uygulama içinde kaydettiği maaş ve ek ders hesaplama kayıtları</li>
+        <li>Uygulama kullanımına ilişkin teknik ve tanılama verileri</li>
+        <li>Cihaz bilgileri ve uygulama performans verileri</li>
+        <li>Reklam gösterimi ve reklam kimliği ile ilişkili veriler</li>
+        <li>Bildirim almak için kullanılan cihaz bildirim belirteçleri, eğer bildirim özelliği etkinse</li>
+      </ul>
 
-Uygulama, kullanıcıların hesap oluşturması ve hesaplama kayıtlarını saklaması için aşağıdaki verileri toplayabilir:
+      <h2>2. Verilerin Kullanım Amacı</h2>
+      <p>Toplanan veriler şu amaçlarla kullanılır:</p>
+      <ul>
+        <li>Kullanıcı hesabı oluşturmak ve oturum açmayı sağlamak</li>
+        <li>Kaydedilen hesaplama verilerini kullanıcı hesabına bağlı olarak saklamak</li>
+        <li>Kullanıcının kayıtlarını cihazlar arasında erişilebilir hale getirmek</li>
+        <li>Uygulama performansını izlemek ve hataları gidermek</li>
+        <li>Bildirim göndermek, eğer kullanıcı bu özelliği kullanıyorsa</li>
+        <li>Reklamların gösterilmesini sağlamak ve ölçmek</li>
+      </ul>
 
-- E-posta adresi
-- Google hesabı ile giriş sırasında sağlanan hesap bilgileri
-- Kullanıcı kimliği (Firebase UID)
-- Kullanıcının uygulama içinde kaydettiği maaş ve ek ders hesaplama kayıtları
-- Uygulama kullanımına ilişkin teknik ve tanılama verileri
-- Cihaz bilgileri ve uygulama performans verileri
-- Reklam gösterimi ve reklam kimliği ile ilişkili veriler
-- Bildirim almak için kullanılan cihaz bildirim belirteçleri, eğer bildirim özelliği etkinse
+      <h2>3. Verilerin Paylaşımı</h2>
+      <p>Veriler yalnızca aşağıdaki hizmet sağlayıcılarla işlenebilir:</p>
+      <ul>
+        <li>Google Firebase</li>
+        <li>Google Sign-In</li>
+        <li>Google Mobile Ads</li>
+      </ul>
+      <p>Bu hizmetler, uygulamanın çalışması için kullanılan altyapıyı sağlar. Veriler, uygulama işlevselliği dışında üçüncü taraflarla satılmaz.</p>
 
-2. Verilerin Kullanım Amacı
+      <h2>4. Misafir Kullanıcılar</h2>
+      <p>Misafir kullanıcıların kayıtları Firebase’e kaydedilmez. Kayıtlar yalnızca e-posta ile üye olan veya Google ile giriş yapan kullanıcılara aittir.</p>
 
-Toplanan veriler şu amaçlarla kullanılır:
+      <h2>5. Veri Saklama</h2>
+      <p>Kullanıcı kendi hesabını sildiğinde, Firebase’de saklanan kayıtları da silinir. Kullanıcı hesap silme isteğinde bulunduğunda, hesap verileri kaldırılır.</p>
 
-- Kullanıcı hesabı oluşturmak ve oturum açmayı sağlamak
-- Kaydedilen hesaplama verilerini kullanıcı hesabına bağlı olarak saklamak
-- Kullanıcının kayıtlarını cihazlar arasında erişilebilir hale getirmek
-- Uygulama performansını izlemek ve hataları gidermek
-- Bildirim göndermek, eğer kullanıcı bu özelliği kullanıyorsa
-- Reklamların gösterilmesini sağlamak ve ölçmek
+      <h2>6. Veri Güvenliği</h2>
+      <p>Veriler iletim sırasında şifreli olarak aktarılır. Firebase ve Google servisleri bu verilerin güvenli şekilde işlenmesini sağlar.</p>
 
-3. Verilerin Paylaşımı
+      <h2>7. Kullanıcı Hakları</h2>
+      <p>Kullanıcılar hesaplarını silebilir ve kişisel verilerinin silinmesini talep edebilir.</p>
 
-Veriler yalnızca aşağıdaki hizmet sağlayıcılarla işlenebilir:
-
-- Google Firebase
-- Google Sign-In
-- Google Mobile Ads
-
-Bu hizmetler, uygulamanın çalışması için kullanılan altyapıyı sağlar. Veriler, uygulama işlevselliği dışında üçüncü taraflarla satılmaz.
-
-4. Misafir Kullanıcılar
-
-Misafir kullanıcıların kayıtları Firebase’e kaydedilmez. Kayıtlar yalnızca e-posta ile üye olan veya Google ile giriş yapan kullanıcılara aittir.
-
-5. Veri Saklama
-
-Kullanıcı kendi hesabını sildiğinde, Firebase’de saklanan kayıtları da silinir. Kullanıcı hesap silme isteğinde bulunduğunda, hesap verileri kaldırılır.
-
-6. Veri Güvenliği
-
-Veriler iletim sırasında şifreli olarak aktarılır. Firebase ve Google servisleri bu verilerin güvenli şekilde işlenmesini sağlar.
-
-7. Kullanıcı Hakları
-
-Kullanıcılar hesaplarını silebilir ve kişisel verilerinin silinmesini talep edebilir.
-
-8. İletişim
-
-Gizlilik politikası ile ilgili sorular için:
-e mail:servetsahiner66@gmail.com
+      <h2>8. İletişim</h2>
+      <div class="contact">
+        <p>Gizlilik politikası ile ilgili sorular için:</p>
+        <p><strong>Geliştirici / veri sorumlusu:</strong> Servet ŞAHİNER</p>
+        <p><strong>Uygulama:</strong> Maaş ve Ek Ders Hesaplama 2026</p>
+        <p><strong>E-posta:</strong> <a href="mailto:servetsahiner66@gmail.com">servetsahiner66@gmail.com</a></p>
+      </div>
+    </article>
+  </main>
+</body>
+</html>
